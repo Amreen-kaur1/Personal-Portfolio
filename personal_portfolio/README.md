@@ -78,9 +78,9 @@ personal_portfolio/
 │ │ ├── person2.jpg # Person 2 image
 │ │ └── person3.jpg # Person 3 image
 │ ├── project/ # Project images
-│ │ ├── project1.png # Project 1 image
-│ │ ├── project2.png # Project 2 image
-│ │ └── project3.png # Project 3 image
+│ │ ├── project-image01.png # Project 1 image
+│ │ ├── project-image02.png # Project 2 image
+│ │ └── project-image03.png # Project 3 image
 │ ├── undraw/ # SVG illustrations
 │ │ └── engineer.svg # Engineer illustration
 │ ├── bg.jpeg # Background image
